@@ -34,7 +34,7 @@ Special Events
 About Us
 	Our mission/captains biography - 24
 	Contact us -25
-	Volunteer -26
+	Volunteer -26 (Josh)
 
 **Fix additional contact link(bottom of every page) to go to 25.html
 	
