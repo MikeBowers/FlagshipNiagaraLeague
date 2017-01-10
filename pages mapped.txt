@@ -7,8 +7,8 @@ Plan Your Visit
 	Family Friendly Events - 5 - DONE
 
 Support Us
-	Membership - 6
-	Kids Club - 7
+	Membership - 6 - DONE
+	Kids Club - 7 - DONE - *check form
 	Community Partners - 8
 	Dobbins Society - 9
 	Donate Today - 10
@@ -36,7 +36,11 @@ About Us
 	Contact us -25
 	Volunteer -26 (Josh)
 
+---TO DO-------
+
 **Fix additional contact link(bottom of every page) to go to 25.html
-	
+**Fix the button links on everypage(top of page)
+**Add functionality to the subscribe button. Maybe they already have a subscriber list?
+**test all of the forms and capchas, like on 7.html and one other page, idk the name
 	
 	
