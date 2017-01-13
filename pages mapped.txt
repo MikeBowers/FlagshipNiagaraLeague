@@ -15,13 +15,14 @@ Support Us
 
 U.S. Brig Niagara
 	About the Niagara - 11 - DONE **Needs updated links
-	Sail With Us - 12
+	Sail With Us - 12 - DONE
 	Sail Training Program - 13
 
 Erie Maritime Museum
 	About the Museum - 14
 	Exhibits - 15
 	Rental information - 16
+	Educational Resources and Programs - 27 ***Add to menu for all pages
 
 Special Events
 	Mystery at the Maritime - 17
@@ -38,6 +39,7 @@ About Us
 
 ---TO DO-------
 
+**Make title view more transparent
 **Fix additional contact link(bottom of every page) to go to 25.html
 **Fix the button links on everypage(top of page)
 **Add functionality to the subscribe button. Maybe they already have a subscriber list?
